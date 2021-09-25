@@ -1,0 +1,1 @@
+This current project is to practice what I've learned in the HTML foundations part of this course.
